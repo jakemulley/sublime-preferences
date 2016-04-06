@@ -1,0 +1,59 @@
+{
+    "bold_folder_labels": true,
+    "caret_style": "phase",
+    "close_windows_when_empty": true,
+    "drag_text": false,
+    "ensure_newline_at_eof_on_save": true,
+    "figlet_font": "5lineoblique",
+    "file_exclude_patterns":
+    [
+        "*.pyc",
+        "*.pyo",
+        "*.exe",
+        "*.dll",
+        "*.obj",
+        "*.o",
+        "*.a",
+        "*.lib",
+        "*.so",
+        "*.dylib",
+        "*.ncb",
+        "*.sdf",
+        "*.suo",
+        "*.pdb",
+        "*.idb",
+        ".DS_Store",
+        "*.class",
+        "*.psd",
+        "*.db",
+        "*.sublime-workspace",
+        "*.lock"
+    ],
+    "folder_exclude_patterns":
+    [
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS",
+        ".sass-cache",
+        "*.xcodeproj",
+        "report",
+        ".idea",
+        ".meteor/local"
+    ],
+    "font_size": 12,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "GoToMark",
+        "Vintage"
+    ],
+    "rulers":
+    [
+        80,
+        120
+    ],
+    "show_full_path": true,
+    "theme": "Cobalt2.sublime-theme",
+    "trim_trailing_white_space_on_save": true
+}
