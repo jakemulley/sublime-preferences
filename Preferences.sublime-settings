@@ -54,6 +54,5 @@
         120
     ],
     "show_full_path": true,
-    "theme": "Cobalt2.sublime-theme",
     "trim_trailing_white_space_on_save": true
 }
